@@ -1,3 +1,8 @@
+9/3/2021
+
+This assignment provided by FreeCodeCamp requires the learner to use Pandas, dataframes, series, and several statistic functions to answer questions regarding the demographic data that was provided in csv format. My solution to the assignment is found in the demographic_data_analyzer.py file. 
+
+
 ### Assignment
 
 # Demographic Data Analyzer
@@ -39,6 +44,9 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+
+https://replit.com/@TashaGill/boilerplate-demographic-data-analyzer#demographic_data_analyzer.py
 
 ### Dataset Source
 
